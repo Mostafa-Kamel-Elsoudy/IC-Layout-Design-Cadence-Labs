@@ -58,7 +58,7 @@ Welcome to my IC layout design journey! This repository is a showcase of my hand
 - **Prerequisites:** Ensure you have access to Cadence Virtuoso and the TSMC 65nm PDK.
 - **Clone the repo:** Get started by cloning this repository to your local machine.
   ```bash
-  git clone https://github.com/YourUsername/IC-Layout-Design-Cadence-Labs.git
+  git clone https://github.com/Mostafa-Kamel-Elsoudy/IC-Layout-Design-Cadence-Labs.git
   ```
 - **Explore:** Navigate to each lab folder and follow the detailed instructions to start your design journey.
 
